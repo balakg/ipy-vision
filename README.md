@@ -7,7 +7,7 @@
 
 *ipy-vision* is a curated collection of Google Colab notebooks designed to make abstract computer vision and image processing concepts tangible. By using real-time interactive widgets, students can manipulate algorithm parameters and immediately visualize their impact.
 
-<img width="735" height="629" alt="aliasing" src="https://github.com/user-attachments/assets/39928a37-a175-4c19-9117-a97fe031825f" />
+<img width="738" height="630" alt="aliasing_demo" src="https://github.com/user-attachments/assets/4e7845c6-8093-4b73-9379-42e3a1214ccf" />
 
 
 ## 🚀 Why ipy-vision?
